@@ -1,0 +1,30 @@
+
+---
+
+## 📄 `.gitignore`
+
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# macOS system files
+.DS_Store
+
+# Certificates / keys (optional: comment out if tracking)
+*.key
+*.csr
+*.crt
+*.srl
+
+# Logs
+*.log
+
+# Editor settings
+.idea/
+.vscode/
